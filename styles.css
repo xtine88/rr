@@ -35,3 +35,15 @@
   background: #ddd;
   padding: 1em;
 }
+
+footer {
+    display: block;
+}
+
+#about-us{
+  margin: 80px 0px 0px 0px;
+}
+
+#how-to{
+  margin: 0px 0px 80px 0px;
+}
